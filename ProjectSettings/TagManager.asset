@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Walls
+  - Balls
+  - Effects
+  - Cannon
+  - Blue
+  - Red
+  - Green
+  - Yellow
+  - Plus1
+  - Plus2
+  - Plus5
+  - White
+  - EffectWaitBall
+  - Bullet0
+  - Bullet1
+  - Bullet2
+  - Bullet3
+  - Bullet4
+  - Bullet5
+  - Fruit0
+  - Fruit1
+  - Fruit2
+  - Fruit3
+  - Fruit4
+  - Fruit5
+  - Fruit6
+  - Fruit7
+  - Fruit8
+  - Fruit9
+  - Fruit10
+  - Fragged
+  - Scrap
+  - CatchedScrap
+  - Bubble
+  - Barrier
+  - TriggeredBalls
+  - ArrowStuck
+  - Projectile
+  - HitBox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - EffectsCol
+  - BackGround
+  - Wall
+  - Ball
+  - Effect
+  - Cannon
+  - TroughWall
+  - Blue
+  - Red
+  - Green
+  - Yellow
+  - White
+  - CameraFrame
+  - Bike
+  - Stick0
+  - Stick1
+  - MobSearch
+  - WhiteMob
+  - GreenLeaf
+  - PuprpleLeaf
+  - MonoBullet
+  - RainBullet
+  - StickCol
+  - StickWall
+  - Wall2
+  - 
+  m_SortingLayers:
+  - name: Ball
+    uniqueID: 2392483391
+    locked: 0
+  - name: Wall
+    uniqueID: 3177416707
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: WeaponIcon
+    uniqueID: 458196721
+    locked: 0
+  - name: MaskedTeam0
+    uniqueID: 3934186521
+    locked: 0
+  - name: MaskedTeam1
+    uniqueID: 2577510979
+    locked: 0
+  - name: MaskWall
+    uniqueID: 557819089
+    locked: 0
+  - name: MaskedCurve
+    uniqueID: 3544443855
+    locked: 0
+  - name: CameraFrame
+    uniqueID: 635872345
+    locked: 0
+  - name: VFXEffect
+    uniqueID: 3405652711
+    locked: 0
+  - name: TopDefault
+    uniqueID: 3733446825
+    locked: 0
+  - name: TopDefault2
+    uniqueID: 215699069
+    locked: 0
+  - name: TopDefault3
+    uniqueID: 1459468555
+    locked: 0
+  - name: TopDefault4
+    uniqueID: 565788333
+    locked: 0
+  - name: TopDefault5
+    uniqueID: 2464994515
+    locked: 0
+  - name: TopDefault6
+    uniqueID: 1797035133
+    locked: 0
+  - name: Foremost
+    uniqueID: 1127537213
+    locked: 0
+  - name: CoverEffect
+    uniqueID: 1790640755
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Light Layer 1
+  - Light Layer 2
+  - Light Layer 3
+  - Light Layer 4
+  - Light Layer 5
+  - Light Layer 6
+  - Light Layer 7
